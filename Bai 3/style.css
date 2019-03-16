@@ -1,0 +1,9 @@
+#tieude{
+    font-weight: bold;
+    color: green;
+}
+
+#menu ul ul > p{
+    background: red;
+    color: white;
+}
